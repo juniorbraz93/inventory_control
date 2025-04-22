@@ -57,7 +57,7 @@ $ source venv/bin/activate  # ou venv\Scripts\activate no Windows
 $ pip install -r requirements.txt
 
 # Configure a variável DATABASE_URL no arquivo .env
-DATABASE_URL=mysql+pymysql://usuario:senha@localhost/inventario
+DATABASE_URL=mysql+pymysql://usuario:senha@localhost/nome_db
 
 # Rode o backend
 $ uvicorn app.main:app --reload
