@@ -2,10 +2,10 @@
 
 ### Índice
 
-- 💡[ Sobre](#-sobre)
-- 🛠[ Tecnologias utilizadas](#-tecnologias-utilizadas)
-- 📥[ Como baixar o projeto](#-como-baixar-o-projeto)
-- ⚙️[ Funcionalidades](#-funcionalidades)
+- 💡[Sobre](#-sobre)
+- 🛠[Tecnologias utilizadas](#-tecnologias-utilizadas)
+- 📥[Como baixar o projeto](#-como-baixar-o-projeto)
+- ⚙️[Funcionalidades](#-funcionalidades)
 
 ---
 
